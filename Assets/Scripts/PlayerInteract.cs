@@ -5,7 +5,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityStandardAssets.Characters.FirstPerson;
-
+using UnityStandardAssets.CrossPlatformInput;
 public class PlayerInteract : MonoBehaviour
 {
 
