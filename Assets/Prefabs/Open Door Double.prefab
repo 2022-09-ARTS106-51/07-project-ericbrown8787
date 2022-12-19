@@ -31,6 +31,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 121.51
       objectReference: {fileID: 0}
+    - target: {fileID: 1414632999456597454, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2863717388303191943, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -50,6 +54,10 @@ PrefabInstance:
     - target: {fileID: 5970221272027587344, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
       propertyPath: m_Mesh
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5970221272027587346, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5970221272027587347, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
       propertyPath: m_Mesh
@@ -78,6 +86,10 @@ PrefabInstance:
     - target: {fileID: 5970221272027587359, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
       propertyPath: m_SelectedVertices.Array.size
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5970221272282725664, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5970221272282725665, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -139,6 +151,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5970221272987206148, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5970221272987206149, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -187,6 +203,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5970221273391430963, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5970221273391430973, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -214,6 +234,10 @@ PrefabInstance:
     - target: {fileID: 7071764107350605707, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
       propertyPath: m_Mesh
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014520761048870173, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 532fb74f7228f71469bcd3a36fb120f4, type: 3}
