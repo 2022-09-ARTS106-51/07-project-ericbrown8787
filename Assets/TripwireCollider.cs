@@ -39,7 +39,7 @@ public class TripwireCollider : MonoBehaviour
                 ambienceSource.clip= ambienceClip;
                 ambienceSource.Play();
             }
-            Debug.Log("You have successfully walked through a wall. Good job. ");
+
         }
     }
 }
